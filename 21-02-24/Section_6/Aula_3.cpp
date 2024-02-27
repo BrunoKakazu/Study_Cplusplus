@@ -6,13 +6,13 @@
 
 using namespace std;
 
-int main()
+/*int main()
 {
 	/*
 	int age{21};
 
 	cout << age << endl;
-	*/
+	
 
 	// Nesta parte, estamos inicializando a variável com 0.
 	int room_width {0};
@@ -27,4 +27,4 @@ int main()
 	cout << "Area of the room is " << room_width * room_length << " square feet" << endl;
 
 	return 0;
-}
+}*/
