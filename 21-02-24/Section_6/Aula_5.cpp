@@ -39,5 +39,31 @@ int main()
 	* Floating point types
 	* *************************************************/
 
+	float car_payment{ 401.23 };
+	cout << "My car payment is " << car_payment << endl;
 
+	double pi{ 3.14159 };
+	cout << "Pi is " << pi << endl;
+
+	long double large_amount{ 2.7e120 };
+	cout << large_amount << " is very big number" << endl;
+
+	/*************************************************
+	* Boolean Type
+	* ************************************************/
+
+	bool Game_Over{ false };
+	cout << "The value of gameOver is " << Game_Over << endl; // Nesta parte ele irá dar um número como 0. Pois em C++ os valores para falso é zero.
+
+	/************************************************
+	* Overflow Example
+	* ***********************************************/
+
+	short value1{ 3000 };
+	short value2{ 1000 };
+	short product{ value1 * value2 };
+
+	cout << "The sum of " << value1 << " and " << value2 << " is " << product << endl;
+
+	return 0;
 }
