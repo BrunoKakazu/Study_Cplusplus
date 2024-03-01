@@ -24,5 +24,8 @@
     <ClCompile Include="Section_6\Aula_5.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="Section_6\Aula_6.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
