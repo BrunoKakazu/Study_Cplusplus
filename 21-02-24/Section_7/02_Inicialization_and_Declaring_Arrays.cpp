@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main()
+/*int main()
 {
 	// Nesta parte eu estou declarando um array de vogais e estou imprimindo a primeira e a ultima vogal
 	char vowels[]{ 'a', 'i', 'u', 'e', 'o' };				// Aqui nao declarei o tamanho, porem eu fiz a inicializacao de 5 vogais, logo o compilador ira criar um array de tamanho 5
@@ -51,4 +51,4 @@ int main()
 	cout << "\nNotice what the value of the array name is: " << test_score << endl;
 
 	return 0;
-}
+}*/

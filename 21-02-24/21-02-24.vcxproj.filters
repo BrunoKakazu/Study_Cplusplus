@@ -18,16 +18,22 @@
     <ClCompile Include="21-02-24.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="Section_6\Aula_3.cpp">
+    <ClCompile Include="Section_6\03_Declaring_and_Inicializacion_Variables.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="Section_6\Aula_5.cpp">
+    <ClCompile Include="Section_6\05_Primitive_Types.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="Section_6\Aula_6.cpp">
+    <ClCompile Include="Section_6\06_Sizeof.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="Section_7\Aula_03.cpp">
+    <ClCompile Include="Section_7\02_Inicialization_and_Declaring_Arrays.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Section_7\06_Inicialization_and_Declaring_Vectors.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Section_8\03_Assignment_Expression.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>

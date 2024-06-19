@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="21-02-24.cpp" />
-    <ClCompile Include="Section_6\Aula_3.cpp" />
-    <ClCompile Include="Section_6\Aula_5.cpp" />
-    <ClCompile Include="Section_6\Aula_6.cpp" />
-    <ClCompile Include="Section_7\Aula_03.cpp" />
+    <ClCompile Include="Section_6\03_Declaring_and_Inicializacion_Variables.cpp" />
+    <ClCompile Include="Section_6\05_Primitive_Types.cpp" />
+    <ClCompile Include="Section_6\06_Sizeof.cpp" />
+    <ClCompile Include="Section_7\02_Inicialization_and_Declaring_Arrays.cpp" />
+    <ClCompile Include="Section_7\06_Inicialization_and_Declaring_Vectors.cpp" />
+    <ClCompile Include="Section_8\03_Assignment_Expression.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
