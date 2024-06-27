@@ -1,0 +1,21 @@
+#include <iostream>
+#include <iomanip>
+ 
+int main() {
+ 
+    double nota1;
+    double nota2;
+    double nota3;
+    double media;
+    
+    std::cin >> nota1;
+    std::cin >> nota2;
+    std::cin >> nota3;
+    
+    media = ((nota1*2) + (nota2*3) + (nota3*5))/10;
+    
+    std::cout << std::fixed;
+    std::cout << "MEDIA = " << std::setprecision(1) << media << std::endl;
+ 
+    return 0;
+}
