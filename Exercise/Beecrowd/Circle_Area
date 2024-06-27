@@ -1,0 +1,21 @@
+#include <iostream>
+#include <iomanip>
+
+ 
+int main() {
+ 
+    double n {3.14159};
+    double raio;
+    double area;
+    
+    std::cin >> raio;
+    
+    area = n*(raio*raio);
+
+    // O std::fixed e uma da biblioteca do iomanip e ele faz com que a precisao se torne em quantas casas depois da virgula e nao pela quantidade de numeros significativos que voce deseja
+    std::cout << std::fixed;
+    std::cout << "A=" << std::setprecision(4) << area << std::endl; 
+    
+ 
+    return 0;
+}
