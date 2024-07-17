@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main()
+/*int main()
 {
 	// Isso aqui e uma inicializacao
 	int num1{ 10 };
@@ -29,4 +29,4 @@ int main()
 	cout << endl;
 
 	return 0;
-}
+}*/

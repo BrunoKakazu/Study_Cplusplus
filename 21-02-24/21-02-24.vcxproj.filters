@@ -36,5 +36,11 @@
     <ClCompile Include="Section_8\03_Assignment_Expression.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="Section_8\04_Arithmatics_Operators.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Section_8\05_Increment_Decrement_Operators.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

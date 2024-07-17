@@ -134,6 +134,8 @@
     <ClCompile Include="Section_7\02_Inicialization_and_Declaring_Arrays.cpp" />
     <ClCompile Include="Section_7\06_Inicialization_and_Declaring_Vectors.cpp" />
     <ClCompile Include="Section_8\03_Assignment_Expression.cpp" />
+    <ClCompile Include="Section_8\04_Arithmatics_Operators.cpp" />
+    <ClCompile Include="Section_8\05_Increment_Decrement_Operators.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
