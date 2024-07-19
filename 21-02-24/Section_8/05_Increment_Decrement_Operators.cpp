@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main()
+/* int main()
 {
 	int counter{ 10 };
 	int result{ 0 };
@@ -88,5 +88,5 @@ int main()
 	cout << endl;
 
 	return 0;
-}
+}*/
 

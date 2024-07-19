@@ -136,6 +136,7 @@
     <ClCompile Include="Section_8\03_Assignment_Expression.cpp" />
     <ClCompile Include="Section_8\04_Arithmatics_Operators.cpp" />
     <ClCompile Include="Section_8\05_Increment_Decrement_Operators.cpp" />
+    <ClCompile Include="Section_8\06_Mixed_Expression_and_Conversions.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

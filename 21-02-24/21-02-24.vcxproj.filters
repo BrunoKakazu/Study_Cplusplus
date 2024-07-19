@@ -42,5 +42,8 @@
     <ClCompile Include="Section_8\05_Increment_Decrement_Operators.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="Section_8\06_Mixed_Expression_and_Conversions.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
