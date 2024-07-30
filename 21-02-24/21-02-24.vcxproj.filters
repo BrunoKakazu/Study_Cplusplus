@@ -45,5 +45,11 @@
     <ClCompile Include="Section_8\06_Mixed_Expression_and_Conversions.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="Section_8\07_Testing_for_Equality.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Section_8\08_Relational_Operators.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
