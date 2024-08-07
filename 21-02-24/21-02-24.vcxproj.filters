@@ -51,5 +51,8 @@
     <ClCompile Include="Section_8\08_Relational_Operators.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="Section_8\09_Logical_Operators.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
