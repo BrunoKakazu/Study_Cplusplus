@@ -141,6 +141,7 @@
     <ClCompile Include="Section_8\07_Testing_for_Equality.cpp" />
     <ClCompile Include="Section_8\08_Relational_Operators.cpp" />
     <ClCompile Include="Section_8\09_Logical_Operators.cpp" />
+    <ClCompile Include="Section_8\Challenge_Section.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
