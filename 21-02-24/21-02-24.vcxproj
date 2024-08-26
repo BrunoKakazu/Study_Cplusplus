@@ -142,6 +142,8 @@
     <ClCompile Include="Section_8\08_Relational_Operators.cpp" />
     <ClCompile Include="Section_8\09_Logical_Operators.cpp" />
     <ClCompile Include="Section_8\Challenge_Section.cpp" />
+    <ClCompile Include="Section_9\02_If_Statement.cpp" />
+    <ClCompile Include="Section_9\03_If_Else_Statement.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
